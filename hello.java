@@ -1,7 +1,7 @@
-class hello
+class hello	#editdev2
 {
-	public static void main()
+	public static void main()	#editdev2
 	{
 
 	}
-}
+}	#editdev2
