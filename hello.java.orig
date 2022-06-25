@@ -1,0 +1,10 @@
+class hello
+{
+	public static void main()
+	{
+<<<<<<< HEAD
+	system.out.println("hello world")
+=======
+>>>>>>> f0ca30a8d41625b5ad4f83daf29aecd489b81293
+	}
+}
