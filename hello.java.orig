@@ -1,10 +1,13 @@
-class hello
-{
-	public static void main()
-	{
 <<<<<<< HEAD
-	system.out.println("hello world")
+class hello	#editdev2
+{
+	public static void main()	#editdev2
 =======
->>>>>>> f0ca30a8d41625b5ad4f83daf29aecd489b81293
+class hello	#editdev1
+{
+	public static void main()	#editdev1
+>>>>>>> 24f25e8a5ca91d9c0714bf961f281e00f76626a3
+	{
+	#editdev1
 	}
-}
+}	#editdev2

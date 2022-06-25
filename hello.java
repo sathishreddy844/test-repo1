@@ -1,7 +1,8 @@
-class hello	#editdev2
-{
-	public static void main()	#editdev2
-	{
 
+class hello	#editdev1
+{
+	public static void main()	#editdev1
+	{
+	#editdev1
 	}
 }	#editdev2
